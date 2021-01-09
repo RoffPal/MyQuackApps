@@ -6,4 +6,4 @@ A Flutter Project cointaining a list of mini apps created by me................e
 
 ## Getting Started
 
-Spoiler Alert:  All Na Spaghetti Code.
+Spoiler Alert:  All Na Spaghetti Code
